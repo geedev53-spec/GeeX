@@ -36,10 +36,10 @@ pkg update && pkg install git python -y
 
 # Clone repository
 cd $HOME
-git clone https://github.com/yourusername/GeeX-OS.git
+git clone https://github.com/geedev53-spec/GeeX.git
 
 # Run installer
-cd GeeX-OS
+cd GeeX
 chmod +x setup.sh
 ./setup.sh
 ```
@@ -52,10 +52,10 @@ sudo apt update && sudo apt install git python3 python3-pip -y
 
 # Clone repository
 cd $HOME
-git clone https://github.com/yourusername/GeeX-OS.git
+git clone https://github.com/geedev53-spec/GeeX.git
 
 # Run installer
-cd GeeX-OS
+cd GeeX
 chmod +x setup.sh
 ./setup.sh
 ```
@@ -63,7 +63,7 @@ chmod +x setup.sh
 ## One-Liner Install (Curl)
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/yourusername/GeeX-OS/main/setup.sh | bash
+curl -sSL https://raw.githubusercontent.com/geedev53-spec/GeeX/main/setup.sh | bash
 ```
 
 ---
