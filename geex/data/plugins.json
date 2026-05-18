@@ -1,0 +1,41 @@
+{
+  "version": "2.0.0",
+  "ai_assistant": {
+    "enabled": true,
+    "config": {}
+  },
+  "cyberclock": {
+    "enabled": true,
+    "config": {
+      "format": "24h",
+      "show_seconds": true
+    }
+  },
+  "weather": {
+    "enabled": false,
+    "config": {
+      "location": "auto",
+      "unit": "celsius"
+    }
+  },
+  "network_scanner": {
+    "enabled": false,
+    "config": {}
+  },
+  "terminal_games": {
+    "enabled": false,
+    "config": {}
+  },
+  "productivity": {
+    "enabled": true,
+    "config": {}
+  },
+  "filesystem": {
+    "enabled": true,
+    "config": {}
+  },
+  "animations": {
+    "enabled": true,
+    "config": {}
+  }
+}

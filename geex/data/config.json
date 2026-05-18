@@ -1,0 +1,53 @@
+{
+  "version": "2.0.0",
+  "first_run": true,
+  "theme": "cyberpunk",
+  "shell": "bash",
+  "shell_rc": "",
+  "startup_enabled": true,
+  "startup_quick": true,
+  "animations_enabled": true,
+  "truecolor": true,
+  "unicode": true,
+  "sound": false,
+  "auto_update_check": true,
+  "update_channel": "stable",
+  "backup_auto": true,
+  "backup_keep": 5,
+  "log_level": "INFO",
+  "debug": false,
+  "low_resource_mode": false,
+  "dashboard_refresh": 2.0,
+  "monitor_refresh": 1.0,
+  "prompt": {
+    "enabled": true,
+    "style": "powerline",
+    "show_time": true,
+    "show_user": true,
+    "show_host": true,
+    "show_git": true,
+    "show_battery": true,
+    "show_cpu": false,
+    "show_ram": false,
+    "show_path": true,
+    "show_exit_code": true,
+    "newline": true,
+    "color_scheme": "neon"
+  },
+  "paths": {
+    "home": "",
+    "os": "",
+    "backups": "",
+    "themes": "",
+    "cache": "",
+    "logs": "",
+    "plugins": "",
+    "data": ""
+  },
+  "aliases": {
+    "ls": "fancy",
+    "cat": "fancy",
+    "grep": "colored",
+    "clear": "animated"
+  }
+}

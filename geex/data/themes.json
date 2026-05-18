@@ -1,0 +1,83 @@
+{
+  "active": "cyberpunk",
+  "available": [
+    "cyberpunk",
+    "matrix",
+    "ocean",
+    "neon",
+    "minimal",
+    "hackerman"
+  ],
+  "cyberpunk": {
+    "name": "Cyberpunk",
+    "bg": "#0a0a0f",
+    "fg": "#00d4ff",
+    "accent1": "#00d4ff",
+    "accent2": "#ff00ff",
+    "accent3": "#00ff88",
+    "warning": "#ffaa00",
+    "error": "#ff0044",
+    "success": "#00ff88",
+    "dim": "#555577"
+  },
+  "matrix": {
+    "name": "Matrix",
+    "bg": "#000000",
+    "fg": "#00ff00",
+    "accent1": "#00ff00",
+    "accent2": "#00cc00",
+    "accent3": "#55ff55",
+    "warning": "#ffaa00",
+    "error": "#ff0044",
+    "success": "#00ff00",
+    "dim": "#008800"
+  },
+  "ocean": {
+    "name": "Ocean",
+    "bg": "#001020",
+    "fg": "#44aaff",
+    "accent1": "#44aaff",
+    "accent2": "#0088ff",
+    "accent3": "#66ccff",
+    "warning": "#ffcc00",
+    "error": "#ff4466",
+    "success": "#44ffaa",
+    "dim": "#336688"
+  },
+  "neon": {
+    "name": "Neon",
+    "bg": "#0f0010",
+    "fg": "#ff00ff",
+    "accent1": "#ff00ff",
+    "accent2": "#00ffff",
+    "accent3": "#ffff00",
+    "warning": "#ff8800",
+    "error": "#ff0044",
+    "success": "#00ff88",
+    "dim": "#663366"
+  },
+  "minimal": {
+    "name": "Minimal",
+    "bg": "#1a1a1a",
+    "fg": "#cccccc",
+    "accent1": "#ffffff",
+    "accent2": "#999999",
+    "accent3": "#666666",
+    "warning": "#ffaa00",
+    "error": "#ff4444",
+    "success": "#44ff44",
+    "dim": "#555555"
+  },
+  "hackerman": {
+    "name": "Hackerman",
+    "bg": "#050505",
+    "fg": "#00ff41",
+    "accent1": "#00ff41",
+    "accent2": "#008f11",
+    "accent3": "#003b00",
+    "warning": "#d4ff00",
+    "error": "#ff0000",
+    "success": "#00ff41",
+    "dim": "#005500"
+  }
+}
